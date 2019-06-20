@@ -1,0 +1,10 @@
+hidl_interface {
+    name: "vendor.evervolv.camera.motor@1.0",
+    root: "vendor.evervolv",
+    srcs: [
+        "ICameraMotor.hal",
+    ],
+    interfaces: [
+        "android.hidl.base@1.0",
+    ],
+}
