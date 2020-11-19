@@ -1,6 +1,7 @@
 hidl_interface {
     name: "vendor.evervolv.camera.motor@1.0",
     root: "vendor.evervolv",
+    system_ext_specific: true,
     srcs: [
         "ICameraMotor.hal",
     ],
