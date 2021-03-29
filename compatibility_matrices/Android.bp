@@ -1,0 +1,7 @@
+vintf_compatibility_matrix {
+    name: "evervolv_compatibility_matrix.xml",
+    stem: "compatibility_matrix.evervolv.xml",
+    srcs: [
+        "compatibility_matrix.evervolv.xml",
+    ],
+}
