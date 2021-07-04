@@ -26,6 +26,10 @@
         <name>vendor.evervolv.touch</name>
         <version>1.0</version>
         <interface>
+            <name>IHighTouchPollingRate</name>
+            <instance>default</instance>
+        </interface>
+        <interface>
             <name>IGloveMode</name>
             <instance>default</instance>
         </interface>
