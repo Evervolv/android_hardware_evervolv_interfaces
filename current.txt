@@ -2,8 +2,6 @@
 # pre-existing interfaces will fail VTS and break framework-only OTAs
 a904b72eab00d33480bf1e6b7be82ae3176f2313fd51b65280eb29534ad82ebe vendor.evervolv.camera.motor@1.0::ICameraMotor
 ab3e1b2dc11fa206e2f1fda3caf7b86e5c71d91055c739d623cf3ebe856fa9e3 vendor.evervolv.fastcharge@1.0::IFastCharge
-1728598c7291e46e95bb59f23bba90b9257d9fa8530992babd5c37dbedc50a84 vendor.evervolv.power@1.0::types
-44ed4b18fde48ff9097521def5a13ed6c364fd280a89d00231997e14f3c87b3a vendor.evervolv.power@1.0::IEvervolvPower
 6cf56baf3e3ff0d3758f31d8a81f2bf7ce2216494891a54be39433adb0968727 vendor.evervolv.touch@1.0::types
 71409e2f4378fd1d8618de3876a19f21ad5704cf0474abeaaf9620fa7d37e0fc vendor.evervolv.touch@1.0::IGloveMode
 2402900254a78aecd7a2faf33b2cf73ef6bcc3673dc223d4260184c8009fb021 vendor.evervolv.touch@1.0::IKeyDisabler
