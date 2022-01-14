@@ -21,15 +21,6 @@
             <instance>default</instance>
         </interface>
     </hal>
-    <!-- Fingerprint -->
-    <hal format="hidl" optional="true">
-        <name>vendor.evervolv.biometrics.fingerprint.inscreen</name>
-        <version>1.0</version>
-        <interface>
-            <name>IFingerprintInscreen</name>
-            <instance>default</instance>
-        </interface>
-    </hal>
     <!-- Power -->
     <hal format="aidl" optional="true">
         <name>vendor.evervolv.power</name>
