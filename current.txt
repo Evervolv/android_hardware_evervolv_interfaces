@@ -1,6 +1,5 @@
 # Do not change this file except to add new interfaces. Changing
 # pre-existing interfaces will fail VTS and break framework-only OTAs
-a904b72eab00d33480bf1e6b7be82ae3176f2313fd51b65280eb29534ad82ebe vendor.evervolv.camera.motor@1.0::ICameraMotor
 ab3e1b2dc11fa206e2f1fda3caf7b86e5c71d91055c739d623cf3ebe856fa9e3 vendor.evervolv.fastcharge@1.0::IFastCharge
 6cf56baf3e3ff0d3758f31d8a81f2bf7ce2216494891a54be39433adb0968727 vendor.evervolv.touch@1.0::types
 71409e2f4378fd1d8618de3876a19f21ad5704cf0474abeaaf9620fa7d37e0fc vendor.evervolv.touch@1.0::IGloveMode
